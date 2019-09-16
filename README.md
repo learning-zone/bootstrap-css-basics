@@ -492,20 +492,13 @@ This is the advanced Bootstrap Interview Questions which is asked in an intervie
 Ex:  
 ```html
 <nav class=”navbar navbar-expand-lg navbar-light bg-light”>
-
-            <div class=”dropdown-menu” aria-labelledby=”navbarDropdown”>
-
-            <a class=”dropdown-item” href=”#”>Action</a>
-
-            <a class=”dropdown-item” href=”#”>Another action</a>
-
-            <div class=”dropdown-divider”></div>
-
-            <a class=”dropdown-item” href=”#”>Something else here</a>
-
-            </div>
-
-        </nav>
+    <div class=”dropdown-menu” aria-labelledby=”navbarDropdown”>
+        <a class=”dropdown-item” href=”#”>Action</a>
+        <a class=”dropdown-item” href=”#”>Another action</a>
+    <div class=”dropdown-divider”></div>
+        <a class=”dropdown-item” href=”#”>Something else here</a>
+    </div>
+</nav>
 ```
 #### Q. Would you tell me something about Glyphicons and how are they written in our code?
 
