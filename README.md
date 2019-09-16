@@ -85,9 +85,9 @@ In bootstrap you can display code in two ways
 
 The steps for creating basic or vertical forms are
 
-Add a role form to the parent <form> element
-Wrap labels and controls in a <div> with class .form-group. To achieve optimum spacing this is needed
-Add a class of .form-control to all texturl <input> , <textarea> , and <select> elements
+Add a role form to the parent `form` element
+Wrap labels and controls in a `div` with class `.form-group.` To achieve optimum spacing this is needed
+Add a class of `.form-control` to all texturl `input` , `textarea` , and `select` elements
 #### Q. Explain what is Modal plugin used for in Bootstrap?
 
 A modal is a child window that is layered over its parent window. Using a custom Jquery Plugin, Bootstrap Modal are created. To enrich user experience and to add functionality to users, modal windows are created with the help of Modal plugin.
