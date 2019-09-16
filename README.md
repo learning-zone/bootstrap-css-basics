@@ -388,7 +388,6 @@ Answer: In Bootstrap the global default font-size is 14px and the line height is
 ```
 Answer: The output of this will give the grids for extra small devices as we can see in the snippet col-xs-12 that has been used and it will also give the grids for desktop devices and above as the class col-md-3 has been used.
 
-
 #### Q. What dependencies does Bootstrap require to work properly?
 
 Answer: jQuery is the only dependency that bootstrap requires for working properly and this is only for JavaScript plugins in bootstrap.
@@ -465,13 +464,9 @@ Ex: The example shows wrapping up of heading contents inside a div class Jumbotr
 
 ```html
 <div class=”jumbotron”>
-
     <h1>Learn to Create Websites</h1>
-
     <p>In today’s world internet is the most popular way…</p>
-
     <p><a href=”#” class=”btn btn-primary btn-lg”>Learn more</a></p>
-
 </div>
 ```
 #### Q. Explain types of lists supported by Bootstrap?
