@@ -79,8 +79,8 @@ Bootstrap	Foundation
 
 In bootstrap you can display code in two ways
 
-<code> tag : If you are going to display code inline, you should use <code> tag
-<pre> tag: If you want to display the code as a standalone block element or it has multiple lines then you should use <pre> tag
+`tag` : If you are going to display code inline, you should use `code` tag
+`pre` tag: If you want to display the code as a standalone block element or it has multiple lines then you should use `pre` tag
 #### Q. Explain what are the steps for creating basic or vertical forms?
 
 The steps for creating basic or vertical forms are
