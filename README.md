@@ -382,12 +382,12 @@ Answer: In Bootstrap the global default font-size is 14px and the line height is
 #### Q. What will be the output of the below code?
 
 ```html
-<div
-class="row">
-<div class="col-xs-12 col-md-3">.col-xs-12 .col-md-3</div>
+<div class="row">
+    <div class="col-xs-12 col-md-3">.col-xs-12 .col-md-3</div>
 </div>
-Answer: The output of this will give the grids for extra small devices as we can see in the snippet col-xs-12 that has been used and it will also give the grids for desktop devices and above as the class col-md-3 has been used.
 ```
+Answer: The output of this will give the grids for extra small devices as we can see in the snippet col-xs-12 that has been used and it will also give the grids for desktop devices and above as the class col-md-3 has been used.
+
 
 #### Q. What dependencies does Bootstrap require to work properly?
 
