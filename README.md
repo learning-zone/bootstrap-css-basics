@@ -270,15 +270,15 @@ Example: .carousel(options), .carousel(‘pause’), .carousel(cycle’), .carou
 
 ```html
 <div class="progress">
-<div class="progress-bar progress-bar-success" style="width: 65%">
-<span class="sr-only">75% successfully completed</span>
-</div>
-<div class="progress-bar progress-bar-warning" style="width: 20%">
-<span class="sr-only">30% completed with warnings</span>
-</div>
-<div class="progress-bar progress-bar-danger" style="width: 15%">
-<span class="sr-only">15% did not complete</span>
-</div>
+    <div class="progress-bar progress-bar-success" style="width: 65%">
+        <span class="sr-only">75% successfully completed</span>
+    </div>
+    <div class="progress-bar progress-bar-warning" style="width: 20%">
+        <span class="sr-only">30% completed with warnings</span>
+    </div>
+    <div class="progress-bar progress-bar-danger" style="width: 15%">
+        <span class="sr-only">15% did not complete</span>
+    </div>
 </div>
 ```
 Answer: If we place multiple bars with the same .progress parent element, Bootstrap will pile them into one single progress bar. As we know, in bootstrap the sum of the progress bar is 100 %. So, the progress bar will give the result as full width and fully populated.
