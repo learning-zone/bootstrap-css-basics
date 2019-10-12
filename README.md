@@ -84,7 +84,7 @@
 |78.|[Explain types of lists supported by Bootstrap?](#q-explain-types-of-lists-supported-by-bootstrap)|
 |79.|[Navigation bar in Bootstrap?](#q-navigation-bar-in-bootstrap)|
 |80.|[Would you tell me something about Glyphicons and how are they written in our code?](#q-would-you-tell-me-something-about-glyphicons-and-how-are-they-written-in-our-code)|
-|81.|[Describe a Bootstrap panel , Bootstrap well and Bootstrap carousel?](#q-describe-a-bootstrap-panel-bootstrap-well-and-bootstrap-carousel)|
+|81.|[Describe a Bootstrap panel, Bootstrap well and Bootstrap carousel?](#q-describe-a-bootstrap-panel-bootstrap-well-and-bootstrap-carousel)|
 |82.|[Bootstrap 3 vs Bootstrap 4](#q-bootstrap-3-vs-bootstrap-4)|
 |83.|[Is Bootstrap a framework?](#q-is-bootstrap-a-framework)|
 |84.|[What comes under the Bootstrap package?](#q-what-comes-under-the-bootstrap-package)|
@@ -645,7 +645,7 @@ Ex:
 <p>Search icon: <span class=”glyphicon glyphicon-search”></span></p>
 ```
 
-#### Q. Describe a Bootstrap panel , Bootstrap well and Bootstrap carousel?
+#### Q. Describe a Bootstrap panel Bootstrap well and Bootstrap carousel?
 
 Answer:
 Bootstrap well: Adds a greyish rounded background around the content, it is a container class. The .well-sm class for small wells and .well-lg class for large wells allows alternate the size of the well. Default well size is normal.
