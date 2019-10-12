@@ -565,8 +565,6 @@ Ex:
 </nav>
 ```
 #### Q. Would you tell me something about Glyphicons and how are they written in our code?
-
-
 Glyphicons are symbols or definitive icon fonts which provide easy orientation in your web projects. they are preferably addended in buttons, form inputs, toolbars and navigation components.  Glyphicons Halflings are not free to use entities and requires licensing. Bootstrap includes more than 250 glyphs from the Glyphicons Halflings set.
 
 Ex: 
@@ -575,8 +573,6 @@ Ex:
 ```
 
 #### Q. Describe a Bootstrap panel Bootstrap well and Bootstrap carousel?
-
-
 Bootstrap well: Adds a greyish rounded background around the content, it is a container class. The .well-sm class for small wells and .well-lg class for large wells allows alternate the size of the well. Default well size is normal.
 
 Ex: 
@@ -594,8 +590,6 @@ Ex :
 ```
 
 Bootstrap carousel:  Adds a slider through which images, videos, and contents can be populated and sided for the users. It is a flexible, handy and responsive way to add a carousel to our site. Carousel plug-in is a component which is used for the same.
-
-
 
 #### Q. Bootstrap 3 vs Bootstrap 4
 #### Q. Is Bootstrap a framework?
