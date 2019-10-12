@@ -280,15 +280,15 @@ The Carousel plugin is used to add a slider to your site. It is useful in condit
 
 #### Q. Define Bootstrap.
 
-Answer: Bootstrap is a front-end framework that is used for creating HTML, CSS, and JS web applications. Its layout is very responsive, easy and fast to use. It mostly focuses on building a mobile application with having design templates for creating UI like Dropdown, Forms, Buttons, Alerts Tab, etc.
+ Bootstrap is a front-end framework that is used for creating HTML, CSS, and JS web applications. Its layout is very responsive, easy and fast to use. It mostly focuses on building a mobile application with having design templates for creating UI like Dropdown, Forms, Buttons, Alerts Tab, etc.
 
 #### Q. Why Bootstrap is used for Mobile Web Development?
 
-Answer: It is used for Mobile Web development because it has responsive designs and templates which is easy to use.
+ It is used for Mobile Web development because it has responsive designs and templates which is easy to use.
 
 #### Q. Explain the features of Bootstrap.
 
-Answer: Its Features include:
+ Its Features include:
 
 Open Source for use
 Compatibility with all browsers.
@@ -296,7 +296,7 @@ Responsive designs
 Easy to use and fast.
 #### Q. Define the key components of Bootstrap.
 
-Answer: Its components include:
+ Its components include:
 
 Scaffolding – It has the grid system, background, styles.
 JS Plugins – Contains JS and jQuery plugins.
@@ -304,15 +304,15 @@ Customize – Can customize frameworks.
 CSS – Contains CSS files.
 #### Q. What do you understand by Bootstrap container?
 
-Answer: Bootstrap container behaves like a container where you can put HTML code and it is a part within the page where the content of the site can be placed to make it responsive and fast.
+ Bootstrap container behaves like a container where you can put HTML code and it is a part within the page where the content of the site can be placed to make it responsive and fast.
 
 #### Q. What do you mean by Bootstrap Classloader?
 
-Answer: Bootstrap class loader is a part of java and a main parental class of class loader.
+ Bootstrap class loader is a part of java and a main parental class of class loader.
 
 #### Q. How many types of layouts are there in Bootstrap?
 
-Answer: There are two types of layouts in Bootstrap.
+ There are two types of layouts in Bootstrap.
 
 They are:
 
@@ -320,27 +320,27 @@ Fluid Layout
 Fixed Layout
 #### Q. Define Fluid Layout.
 
-Answer: Fluid Layout is useful when you need to make an app which involves the full width of the screen i.e. Fluid Layout adjusts itself according to the browser size.
+ Fluid Layout is useful when you need to make an app which involves the full width of the screen i.e. Fluid Layout adjusts itself according to the browser size.
 
 #### Q. Define Fixed Layout.
 
-Answer: Fixed layout is responsive and easy to use but just like the fluid layout, it cannot adjust itself according to the browser size. Fixed Layout should be 940 px in most cases.
+ Fixed layout is responsive and easy to use but just like the fluid layout, it cannot adjust itself according to the browser size. Fixed Layout should be 940 px in most cases.
 
 #### Q. How can you display a code in Bootstrap?
 
-Answer: You can display the code in two ways i.e. by using the `code`tag and by using the `pre` tag.
+ You can display the code in two ways i.e. by using the `code`tag and by using the `pre` tag.
 
 #### Q. When will you use `code`tag and `pre`tag?
 
-Answer: `code` tag is used to show the code inline and `pre` tag is used to show code with multiple lines.
+ `code` tag is used to show the code inline and `pre` tag is used to show code with multiple lines.
 
 #### Q. What is a progress bar in bootstrap?
 
-Answer: Progress bar is used with HTML tag style in HTML element using `progress` keyword. In bootstrap we used html5 `progress` with CSS classes that have special features in bootstrap, that is only made for the progress bar.
+ Progress bar is used with HTML tag style in HTML element using `progress` keyword. In bootstrap we used html5 `progress` with CSS classes that have special features in bootstrap, that is only made for the progress bar.
 
 #### Q. Name the contextual classes that are used with the progressive bar in bootstrap.
 
-Answer: The contextual classes used with progressive bar are as follows.
+ The contextual classes used with progressive bar are as follows.
 
 Progress-success
 Progress-info
@@ -348,13 +348,13 @@ Progress-warning
 Progress-danger
 #### Q. What are responsive utility classes in Bootstrap?
 
-Answer: Responsive utility classes in bootstrap are a set of classes which are used to conceal or exhibit the HTML elements based on screen resolution that discerns by media query in bootstrap.
+ Responsive utility classes in bootstrap are a set of classes which are used to conceal or exhibit the HTML elements based on screen resolution that discerns by media query in bootstrap.
 
 Example: “hidden-md-down”, It hides
 
 #### Q. What are the different button styles in Bootstrap?
 
-Answer: In bootstrap there are seven styles which we can use with the bootstrap button.
+ In bootstrap there are seven styles which we can use with the bootstrap button.
 
 .btn-default.
 .btn-primary
@@ -365,39 +365,39 @@ Answer: In bootstrap there are seven styles which we can use with the bootstrap 
 .btn-link.
 #### Q. What are Bootstrap alerts?
 
-Answer: This is used to create presume alert messages, which adds style to the messages to look more noticeable to the user.
+ This is used to create presume alert messages, which adds style to the messages to look more noticeable to the user.
 
 There are four classes in alerts i.e .alert-success, .alert-info, .alert-warning, .alert-danger.
 
 #### Q. Define Bootstrap thumbnails.
 
-Answer: It is a way to use the layout images, videos, text etc. in a grid system. We can create thumbnails by adding a tag with the class .thumbnails around the image.
+ It is a way to use the layout images, videos, text etc. in a grid system. We can create thumbnails by adding a tag with the class .thumbnails around the image.
 
 This will add four pixels of padding and a grey border.
 
 #### Q. Explain Modal plugin in Bootstrap.
 
-Answer: A model is an inherited window that is layered over its parent window. This is used to augment the user experience and adds different functionalities to the users.
+ A model is an inherited window that is layered over its parent window. This is used to augment the user experience and adds different functionalities to the users.
 
 Model windows are created with the help of the modal plugin.
 
 #### Q. Which class is used for pagination in Bootstrap?
 
-Answer: To add pagination on the webpage we have to use the class .pagination.
+ To add pagination on the webpage we have to use the class .pagination.
 
 #### Q. Explain what is Bootstrap collapsing elements.
 
-Answer: It allows you to collapse any particular element without using any JavaScript code.
+ It allows you to collapse any particular element without using any JavaScript code.
 
 To use this feature in bootstrap you have to add data-toggle=” collapse” to the controller element along with a data target to automatically assign the control of a collapsible element. We can use this by writing .collapse(options) etc.
 
 #### Q. What is Bootstrap Well?
 
-Answer: Bootstrap well is a form of container which thrives or makes the content to look recessed on the web page. It also wraps the content by using .well class.
+ Bootstrap well is a form of container which thrives or makes the content to look recessed on the web page. It also wraps the content by using .well class.
 
 #### Q. Explain the uses of carousel plugin in Bootstrap.
 
-Answer: Carousel plugin in bootstrap is used to make sliders in the web pages or your site. There are several carousel plugins that are used in bootstrap to display large contents within a small space by adding sliders.
+ Carousel plugin in bootstrap is used to make sliders in the web pages or your site. There are several carousel plugins that are used in bootstrap to display large contents within a small space by adding sliders.
 
 Example: .carousel(options), .carousel(‘pause’), .carousel(cycle’), .carousel(‘prev’), .carousel(‘next’).
 
@@ -416,93 +416,93 @@ Example: .carousel(options), .carousel(‘pause’), .carousel(cycle’), .carou
     </div>
 </div>
 ```
-Answer: If we place multiple bars with the same .progress parent element, Bootstrap will pile them into one single progress bar. As we know, in bootstrap the sum of the progress bar is 100 %. So, the progress bar will give the result as full width and fully populated.
+ If we place multiple bars with the same .progress parent element, Bootstrap will pile them into one single progress bar. As we know, in bootstrap the sum of the progress bar is 100 %. So, the progress bar will give the result as full width and fully populated.
 
 #### Q. How can we customize links of pagination in Bootstrap?
 
-Answer: We can customize the links by using .disabled for unclickable links and .active for indicating the current page.
+ We can customize the links by using .disabled for unclickable links and .active for indicating the current page.
 
 #### Q. Explain input group in Bootstrap.
 
-Answer: Input group in bootstrap are put out from controls. By using an input group, we can easily add prepended and appended text or button to the text-based inputs.
+ Input group in bootstrap are put out from controls. By using an input group, we can easily add prepended and appended text or button to the text-based inputs.
 
 We can prepend and append elements to a .form-control by taking all the elements in a `div` under a class .input-group. After that, place your extra content inside a `span` in same `div` by using class .input-group-addon after this you can place the `span` element either before or after the input element.
 
 #### Q. Write the ways to create a tabbed navigation menu in Bootstrap.
 
-Answer: We can create a tabbed navigation by making a basic unordered list with the base class of .nav and after this, we can add class .nav-tabs.
+ We can create a tabbed navigation by making a basic unordered list with the base class of .nav and after this, we can add class .nav-tabs.
 
 #### Q. In Bootstrap, how can you create a pills navigation menu?
 
-Answer: Pills navigation menu in bootstrap is created by making an unordered list at first with the base class of .nav and after this add the class .nav-pills.
+ Pills navigation menu in bootstrap is created by making an unordered list at first with the base class of .nav and after this add the class .nav-pills.
 
 #### Q. How navbar works in Bootstrap?
 
-Answer: In bootstrap, navbar is an eminent feature to make responsive meta component that works as navigation headers for your application and site. In mobile view, navbar collapses and become horizontal as the available viewport width increases.
+ In bootstrap, navbar is an eminent feature to make responsive meta component that works as navigation headers for your application and site. In mobile view, navbar collapses and become horizontal as the available viewport width increases.
 
 #### Q. How we can create a navbar in Bootstrap?
 
-Answer: To create a navbar in a bootstrap at first, we have to add the classes .navbar, .navbar-default to the `nav` tag. After this, we have to add the role=”navigation” to the above element, and this will help in accessibility.
+ To create a navbar in a bootstrap at first, we have to add the classes .navbar, .navbar-default to the `nav` tag. After this, we have to add the role=”navigation” to the above element, and this will help in accessibility.
 
 We have added a header class .nav-header to the `div` element, which will include an `a` element with a class navbar brand. From this, we will get a text with a larger size.
 
 #### Q. What is Bootstrap breadcrumb?
 
-Answer: Bootstrap breadcrumb is an efficient way to show hierarchy-based information for a site. This can show the dates of publishing, categories or tags in a blog. They also tell the user about the current page location within a navigational hierarchy.
+ Bootstrap breadcrumb is an efficient way to show hierarchy-based information for a site. This can show the dates of publishing, categories or tags in a blog. They also tell the user about the current page location within a navigational hierarchy.
 
 So we can say that Bootstrap breadcrumb is simply an unordered list with a class of .breadcrumb.
 
 #### Q. What are labels in Bootstrap?
 
-Answer: Bootstrap labels are used for offering counts, tips or other things to provide markup on web pages. To use the label in Bootstrap we use the class .labels to indicate the labels.
+ Bootstrap labels are used for offering counts, tips or other things to provide markup on web pages. To use the label in Bootstrap we use the class .labels to indicate the labels.
 
 #### Q. What are badges in Bootstrap?
 
-Answer: Badges are homogeneous to labels, the main difference between them is corners are more rounded. The main work of badges in the bootstrap is to highlight new or unread items. To use badges just add `span class=”badge”` to links and bootstrap navs.
+ Badges are homogeneous to labels, the main difference between them is corners are more rounded. The main work of badges in the bootstrap is to highlight new or unread items. To use badges just add `span class=”badge”` to links and bootstrap navs.
 
 #### Q. What is a jumbotron in Bootstrap?
 
-Answer: It is used to increase the size of headings and to add a lot of margins for landing page content. To create a jumbotron we have to create a container `div` with the class of .jumbotron.
+ It is used to increase the size of headings and to add a lot of margins for landing page content. To create a jumbotron we have to create a container `div` with the class of .jumbotron.
 
 #### Q. How can we make image responsive in Bootstrap?
 
-Answer: After the updates in Bootstrap, currently the feature to make an image responsive has been added, we can do this by adding a class .img-responsive to the `img` tag. This class makes the width max-width =100%; and height=auto; to the image so that it matches nicely to the parent element.
+ After the updates in Bootstrap, currently the feature to make an image responsive has been added, we can do this by adding a class .img-responsive to the `img` tag. This class makes the width max-width =100%; and height=auto; to the image so that it matches nicely to the parent element.
 
 #### Q. What do you mean by normalize in Bootstrap?
 
-Answer: Bootstrap normalize is a small CSS file which is used to make cross-browser consistency.
+ Bootstrap normalize is a small CSS file which is used to make cross-browser consistency.
 
 #### Q. What is lead body copy in Bootstrap?
 
-Answer: It is used to add some ascent to the paragraph if we add class=”lead”. This will enlarge the font size and a taller line height.
+ It is used to add some ascent to the paragraph if we add class=”lead”. This will enlarge the font size and a taller line height.
 
 #### Q. What are panels in Bootstrap?
 
-Answer: Panels are components that are used when you want to put your DOM component in a box. So, to retrieve a basic panel we just need to add class.panel to the `div` element. We can also add class.panel-default to this element.
+ Panels are components that are used when you want to put your DOM component in a box. So, to retrieve a basic panel we just need to add class.panel to the `div` element. We can also add class.panel-default to this element.
 
 #### Q. How will you create a Bootstrap panel with heading?
 
-Answer: There are two ways by which we can add panel heading.
+ There are two ways by which we can add panel heading.
 
 First is, we can directly use .panel-heading class to add heading container in a panel and the second way is by using any heading tag like `h1` to `h6` with a .panel-title class to give more styles on the heading.
 
 #### Q. What is a scrollspy plugin in Bootstrap?
 
-Answer: It is an auto-updating nav plugin which allows in fetching section of the page based on the scroll position. This can be done by the .active class to the navbar based scroll position.
+ It is an auto-updating nav plugin which allows in fetching section of the page based on the scroll position. This can be done by the .active class to the navbar based scroll position.
 
 #### Q. What is the work of affix plugin in Bootstrap?
 
-Answer: This plugin allows a `div` to be attached to a location on the page.
+ This plugin allows a `div` to be attached to a location on the page.
 
 Use of the social icon in a page is an example for this in which we see that the icons will start in a location, but when the page hits on a certain mark it will block the `div` in place and will stop the scrolling for rest of the page.
 
 #### Q. What is grid system in Bootstrap?
 
-Answer: By using the grid system, we can make up to 12 columns across a page. There are different classes which have been defined for this for the UI purpose.
+ By using the grid system, we can make up to 12 columns across a page. There are different classes which have been defined for this for the UI purpose.
 
 #### Q. What are Grid classes in the Bootstrap?
 
-Answer: There are four grid classes in Bootstrap.
+ There are four grid classes in Bootstrap.
 
 They are:
 
@@ -512,7 +512,7 @@ md (It is for small laptop screen of size equal to or greater than 992px wide).
 LG ( It is for laptop and desktop screens which are equal to greater than 1200px wide).
 #### Q. What are global styles that are used in Bootstrap Default Typography?
 
-Answer: In Bootstrap the global default font-size is 14px and the line height is 1.428. The default font changes to Helvetica and Arial are with sans-serif fallback and all these styles are applicable for both body and all paragraphs.
+ In Bootstrap the global default font-size is 14px and the line height is 1.428. The default font changes to Helvetica and Arial are with sans-serif fallback and all these styles are applicable for both body and all paragraphs.
 
 #### Q. What will be the output of the below code?
 
@@ -521,43 +521,43 @@ Answer: In Bootstrap the global default font-size is 14px and the line height is
     <div class="col-xs-12 col-md-3">.col-xs-12 .col-md-3</div>
 </div>
 ```
-Answer: The output of this will give the grids for extra small devices as we can see in the snippet col-xs-12 that has been used and it will also give the grids for desktop devices and above as the class col-md-3 has been used.
+ The output of this will give the grids for extra small devices as we can see in the snippet col-xs-12 that has been used and it will also give the grids for desktop devices and above as the class col-md-3 has been used.
 
 #### Q. What dependencies does Bootstrap require to work properly?
 
-Answer: jQuery is the only dependency that bootstrap requires for working properly and this is only for JavaScript plugins in bootstrap.
+ jQuery is the only dependency that bootstrap requires for working properly and this is only for JavaScript plugins in bootstrap.
 
 #### Q. Explain what the below code will do?
 ```html
 <a href="#">Home <span class="badge">36</span></a>
 ```
-Answer: This code will produce a link with an inline badge which will give an important notification to the user like number received, message received or the number of requests etc.
+ This code will produce a link with an inline badge which will give an important notification to the user like number received, message received or the number of requests etc.
 
 #### Q. What are the two codes that are used for code display in Bootstrap?
 
-Answer: The codes are `code` tag and `pre` tag.
+ The codes are `code` tag and `pre` tag.
 
 #### Q. What is the difference between Bootstrap and Foundation?
 
-Answer: Bootstrap uses very fewer preprocessors as it supports less and it allows the designing and development for both mobile and desktop. On the other hand, Foundation supports sass processors and it is used only for mobile UI designing.
+ Bootstrap uses very fewer preprocessors as it supports less and it allows the designing and development for both mobile and desktop. On the other hand, Foundation supports sass processors and it is used only for mobile UI designing.
 
 #### Q. What are Glyphicons in Bootstrap?
 
-Answer: By this, we can use the icon simply anywhere in your code.
+ By this, we can use the icon simply anywhere in your code.
 ```html
 <span class=”glyphicon glyphicon-search”></span>
 ```
 #### Q. What is a transition plugin in Bootstrap?
 
-Answer: It provides simple transition effects like sliding or fading in modals.
+ It provides simple transition effects like sliding or fading in modals.
 
 #### Q. Explain the concept of creating a vertical or basic form in Bootstrap.
 
-Answer: For this first we have to add a role form to the parent `form` element then we have to wrap labels and controls in a `div` with class.form-group and then we have to add a class of .form-control to all text url `input`,`textarea` and `select` elements.
+ For this first we have to add a role form to the parent `form` element then we have to wrap labels and controls in a `div` with class.form-group and then we have to add a class of .form-control to all text url `input`,`textarea` and `select` elements.
 
 #### Q. Explain the Bootstrap framework structure?
 
-Answer:
+
 Bootstrap is a responsive front-end mobile development framework. Sites can be effectively created with the grid system of the Bootstrap framework. its holds a highly responsive design and very much customizable, Mobile sites can be built on top of the Bootstrap framework using below  programming entities,
 
 HTML5 markup
@@ -568,7 +568,7 @@ Here on mobile measurements content can be divided into 12 columns, then it can 
 
 #### Q. What are Breadcrumbs in bootstrap?
 
-Answer:
+
 Breadcrumbs depict the navigational hierarchy of a site, separators in the hierarchy are automatically added by means of CSS.
 
 Bootstrap breadcrumb used for,
@@ -590,7 +590,7 @@ Ex:
     
 #### Q. Why do we use Jumbotron in Bootstrap?
 
-Answer:
+
 Jumbotron is a user-attractive function of Bootstrap. it is a brilliant way to highlight the key contents of a page. the content could be a slogan or probably a headline or any other catchy element of the page. Jumbotron works by increasing the content of the landing page and also increasing the heading size of the content. In order to implement Jumbotron in a Bootstrap use:
 
 Create a container `div` with the class of. Jumbotron
@@ -606,7 +606,7 @@ Ex: The example shows wrapping up of heading contents inside a div class Jumbotr
 ```
 #### Q. Explain types of lists supported by Bootstrap?
 
-Answer:
+
 Lists supported by Bootstrap are as following,
 
 Definition lists −  Evey list is by default introduced with a `dt` and `dd` tag ement
@@ -621,7 +621,7 @@ Let us move to the next Bootstrap Interview Questions And Answer.
 
 #### Q. Navigation bar in Bootstrap?
 
-Answer:
+
 This is the advanced Bootstrap Interview Questions which is asked in an interview. It resembles the navigation header in the top of the page, the navigation bar can be created with Nav tag. Navbars and their contents are fluid by default. The horizontal width can be scaled and controlled using Navigation containers. Navbars are concealed by default while printing.
 
 Ex:  
@@ -637,7 +637,7 @@ Ex:
 ```
 #### Q. Would you tell me something about Glyphicons and how are they written in our code?
 
-Answer:
+
 Glyphicons are symbols or definitive icon fonts which provide easy orientation in your web projects. they are preferably addended in buttons, form inputs, toolbars and navigation components.  Glyphicons Halflings are not free to use entities and requires licensing. Bootstrap includes more than 250 glyphs from the Glyphicons Halflings set.
 
 Ex: 
@@ -647,7 +647,7 @@ Ex:
 
 #### Q. Describe a Bootstrap panel Bootstrap well and Bootstrap carousel?
 
-Answer:
+
 Bootstrap well: Adds a greyish rounded background around the content, it is a container class. The .well-sm class for small wells and .well-lg class for large wells allows alternate the size of the well. Default well size is normal.
 
 Ex: 
