@@ -1,144 +1,12 @@
 ## Bootstrap-CSS Interview Questions and Answers
 
-*Click <img src="https://github.com/learning-zone/bootstrap-css-interview-questions/blob/master/assets/star.png" width="20" height="20" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
+*Click <img src="https://github.com/learning-zone/bootstrap-css-interview-questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
 
-|Sl.NO |Bootstrap-CSS Questions|
-|------|-----------------------|
-|01.|[Explain what is Bootstrap?](#q-explain-what-is-bootstrap)|
-|02.|[Explain why to choose Bootstrap for building the websites?](#q-explain-why-to-choose-bootstrap-for-building-the-websites)|
-|03.|[What are the key components of Bootstrap?](#q-what-are-the-key-components-of-bootstrap)|
-|04.|[Explain what are class loaders in Bootstrap?](#q-explain-what-are-class-loaders-in-bootstrap)|
-|05.|[What are the types of layout available in Bootstrap?](#q-what-are-the-types-of-layout-available-in-bootstrap)|
-|06.|[Explain what is Bootstrap Grid System?](#q-explain-what-is-bootstrap-grid-system)|
-|07.|[What are offset columns in Bootstrap?](#q-what-are-offset-columns-in-bootstrap)|
-|08.|[What is column ordering in Bootstrap?](#q-what-is-column-ordering-in-bootstrap)|
-|09.|[What function you can use to wrap a page content?](#q-what-function-you-can-use-to-wrap-a-page-content)|
-|10.|[Explain what pagination in bootstrap is and how they are classified?](#q-explain-what-pagination-in-bootstrap-is-and-how-they-are-classified)|
-|11.|[What is the use of Jumbotron in Bootstrap?](#q-what-is-the-use-of-jumbotron-in-bootstrap)|
-|12.|[What is the difference between Bootstrap and Foundation?](#q-what-is-the-difference-between-bootstrap-and-foundation)|
-|13.|[In Bootstrap what are the two ways you can display the code?](#q-in-bootstrap-what-are-the-two-ways-you-can-display-the-code)|
-|14.|[Explain what are the steps for creating basic or vertical forms?](#q-explain-what-are-the-steps-for-creating-basic-or-vertical-forms)|
-|15.|[Explain what is Modal plugin used for in Bootstrap?](#q-explain-what-is-modal-plugin-used-for-in-bootstrap)|
-|16.|[Explain what is Bootstrap Container?](#q-explain-what-is-bootstrap-container)|
-|17.|[Explain what is Bootstrap collapsing elements?](#q-explain-what-is-bootstrap-collapsing-elements)|
-|18.|[Explain what is list group in Bootstrap and what is the use of it?](#q-explain-what-is-list-group-in-bootstrap-and-what-is-the-use-of-it)|
-|19.|[How you can add badge to list group in Bootstrap?](#q-how-you-can-add-badge-to-list-group-in-bootstrap)|
-|20.|[Explain what media object in Bootstrap is and what are their types?](#q-explain-what-media-object-in-bootstrap-is-and-what-are-their-types)|
-|21.|[Explain what is Bootstrap well?](#q-explain-what-is-bootstrap-well)|
-|22.|[Explain how you can create Nav elements in Bootstrap?](#q-explain-how-you-can-create-nav-elements-in-bootstrap)|
-|23.|[Explain what is the use of Bootstrap Carousel plugin?](#q-explain-what-is-the-use-of-bootstrap-carousel-plugin)|
-|24.|[Define Bootstrap.](#q-define-bootstrap)|
-|25.|[Why Bootstrap is used for Mobile Web Development?](#q-why-bootstrap-is-used-for-mobile-web-development)|
-|26.|[Explain the features of Bootstrap.](#q-explain-the-features-of-bootstrap)|
-|27.|[Define the key components of Bootstrap.](#q-define-the-key-components-of-bootstrap)|
-|28.|[What do you understand by Bootstrap container?](#q-what-do-you-understand-by-bootstrap-container)|
-|29.|[What do you mean by Bootstrap Classloader?](#q-what-do-you-mean-by-bootstrap-classloader)|
-|30.|[How many types of layouts are there in Bootstrap?](#q-how-many-types-of-layouts-are-there-in-bootstrap)|
-|31.|[Define Fluid Layout.](#q-define-fluid-layout)|
-|32.|[Define Fixed Layout.](#q-define-fixed-layout)|
-|33.|[How can you display a code in Bootstrap?](#q-how-can-you-display-a-code-in-bootstrap)|
-|34.|[When will you use `code`tag and `pre`tag?](#q-when-will-you-use-code-tag-and-pre-tag)|
-|35.|[What is a progress bar in bootstrap?](#q-what-is-a-progress-bar-in-bootstrap)|
-|36.|[Name the contextual classes that are used with the progressive bar in bootstrap.](#q-name-the-contextual-classes-that-are-used-with-the-progressive-bar-in-bootstrap)
-|37.|[What are responsive utility classes in Bootstrap?](#q-what-are-responsive-utility-classes-in-bootstrap)|
-|38.|[What are the different button styles in Bootstrap?](#q-what-are-the-different-button-styles-in-bootstrap)|
-|39.|[What are Bootstrap alerts?](#q-what-are-bootstrap-alerts)|
-|40.|[Define Bootstrap thumbnails.](#q-define-bootstrap-thumbnails)|
-|41.|[Explain Modal plugin in Bootstrap.](#q-explain-modal-plugin-in-bootstrap)|
-|42.|[Which class is used for pagination in Bootstrap?](#q-which-class-is-used-for-pagination-in-bootstrap)|
-|43.|[Explain what is Bootstrap collapsing elements.](#q-explain-what-is-bootstrap-collapsing-elements)|
-|44.|[What is Bootstrap Well?](#q-what-is-bootstrap-well)|
-|45.|[Explain the uses of carousel plugin in Bootstrap.](#q-explain-the-uses-of-carousel-plugin-in-bootstrap)|
-|46.|[What will be the output of the below code and why?](#q-what-will-be-the-output-of-the-below-code-and-why)|
-|47.|[How can we customize links of pagination in Bootstrap?](#q-how-can-we-customize-links-of-pagination-in-bootstrap)|
-|48.|[Explain input group in Bootstrap.](#q-explain-input-group-in-bootstrap)|
-|49.|[Write the ways to create a tabbed navigation menu in Bootstrap.](#q-write-the-ways-to-create-a-tabbed-navigation-menu-in-bootstrap)
-|50.|[In Bootstrap, how can you create a pills navigation menu?](#q-in-bootstrap-how-can-you-create-a-pills-navigation-menu)|
-|51.|[How navbar works in Bootstrap?](#q-how-navbar-works-in-bootstrap)|
-|52.|[How we can create a navbar in Bootstrap?](#q-how-we-can-create-a-navbar-in-bootstrap)|
-|53.|[What is Bootstrap breadcrumb?](#q-what-is-bootstrap-breadcrumb)|
-|54.|[What are labels in Bootstrap?](#q-what-are-labels-in-bootstrap)|
-|55.|[What are badges in Bootstrap?](#q-what-are-badges-in-bootstrap)|
-|56.|[What is a jumbotron in Bootstrap?](#q-what-is-a-jumbotron-in-bootstrap)|
-|57.|[How can we make image responsive in Bootstrap?](#q-how-can-we-make-image-responsive-in-bootstrap)|
-|58.|[What do you mean by normalize in Bootstrap?](#q-what-do-you-mean-by-normalize-in-bootstrap)|
-|59.|[What is lead body copy in Bootstrap?](#q-what-is-lead-body-copy-in-bootstrap)|
-|60.|[What are panels in Bootstrap?](#q-what-are-panels-in-bootstrap)|
-|61.|[How will you create a Bootstrap panel with heading?](#q-how-will-you-create-a-bootstrap-panel-with-heading)|
-|62.|[What is a scrollspy plugin in Bootstrap?](#q-what-is-a-scrollspy-plugin-in-bootstrap)|
-|63.|[What is the work of affix plugin in Bootstrap?](#q-what-is-the-work-of-affix-plugin-in-bootstrap)|
-|64.|[What is grid system in Bootstrap?](#q-what-is-grid-system-in-bootstrap)|
-|65.|[What are Grid classes in the Bootstrap?](#q-what-are-grid-classes-in-the-bootstrap)|
-|66.|[What are global styles that are used in Bootstrap Default Typography?](#q-what-are-global-styles-that-are-used-in-bootstrap-default-typography)|
-|67.|[What will be the output of the below code?](#q-what-will-be-the-output-of-the-below-code)|
-|68.|[What dependencies does Bootstrap require to work properly?](#q-what-dependencies-does-bootstrap-require-to-work-properly)|
-|69.|[Explain what the below code will do?](#q-explain-what-the-below-code-will-do)|
-|70.|[What are the two codes that are used for code display in Bootstrap?](#q-what-are-the-two-codes-that-are-used-for-code-display-in-bootstrap)|
-|71.|[What is the difference between Bootstrap and Foundation?](#q-what-is-the-difference-between-bootstrap-and-foundation)|
-|72.|[What are Glyphicons in Bootstrap?](#q-what-are-glyphicons-in-bootstrap)|
-|73.|[What is a transition plugin in Bootstrap?](#q-what-is-a-transition-plugin-in-bootstrap)|
-|74.|[Explain the concept of creating a vertical or basic form in Bootstrap.](#q-explain-the-concept-of-creating-a-vertical-or-basic-form-in-bootstrap)
-|75.|[Explain the Bootstrap framework structure?](#q-explain-the-bootstrap-framework-structure)|
-|76.|[What are Breadcrumbs in bootstrap?](#q-what-are-breadcrumbs-in-bootstrap)|
-|77.|[Why do we use Jumbotron in Bootstrap?](#q-why-do-we-use-jumbotron-in-bootstrap)|
-|78.|[Explain types of lists supported by Bootstrap?](#q-explain-types-of-lists-supported-by-bootstrap)|
-|79.|[Navigation bar in Bootstrap?](#q-navigation-bar-in-bootstrap)|
-|80.|[Would you tell me something about Glyphicons and how are they written in our code?](#q-would-you-tell-me-something-about-glyphicons-and-how-are-they-written-in-our-code)|
-|81.|[Describe a Bootstrap panel, Bootstrap well and Bootstrap carousel?](#q-describe-a-bootstrap-panel-bootstrap-well-and-bootstrap-carousel)|
-|82.|[Bootstrap 3 vs Bootstrap 4](#q-bootstrap-3-vs-bootstrap-4)|
-|83.|[Is Bootstrap a framework?](#q-is-bootstrap-a-framework)|
-|84.|[What comes under the Bootstrap package?](#q-what-comes-under-the-bootstrap-package)|
-|85.|[How to setup Bootstrap with CDN?](#q-how-to-setup-bootstrap-with-cdn)|
-|86.|[New features of Bootstrap 4](#q-new-features-of-bootstrap-4)
-|87.|[Types of Layouts in Bootstrap?](#q-types-of-layouts-in-bootstrap)|
-|88.|[What is the role of Jumbotron in Bootstrap?](#q-what-is-the-role-of-jumbotron-in-bootstrap)|
-|89.|[How to align a flex item on the baseline in Bootstrap?](#q-how-to-align-a-flex-item-on-the-baseline-in-bootstrap)|
-|90.|[Differentiate between Bootstrap and Foundation](#q-differentiate-between-bootstrap-and-foundation)|
-|91.|[What is an Alert component in Bootstrap?](#q-what-is-an-alert-component-in-bootstrap)|
-|92.|[What is a Tooltip component in Bootstrap?](#q-what-is-a-tooltip-component-in-bootstrap)|
-|93.|[Striped Progress Bar in Bootstrap](#q-striped-progress-bar-in-bootstrap)|
-|94.|[Why the align-self-sm-stretch class used in Bootstrap 4?](#q-why-the-align-self-sm-stretch-class-used-in-bootstrap-4)|
-|95.|[Form Control states in Bootstrap](#q-form-control-states-in-bootstrap)|
-|96.|[Why do we need a static Control in Bootstrap](#q-why-do-we-need-a-static-control-in-bootstrap)|
-|97.|[Why should we use Button Groups in Bootstrap?](#q-why-should-we-use-button-groups-in-bootstrap)|
-|98.|[Horizontal Form in Bootstrap](#q-horizontal-form-in-bootstrap)|
-|99.|[What is a Bootstrap Navbar?](#q-what-is-a-bootstrap-navbar)|
-|100.|[How to add inline subheadings in Bootstrap](#q-how-to-add-inline-subheadings-in-bootstrap)|
-|101.|[How to wrap flex items on different screens in Bootstrap?](#q-how-to-wrap-flex-items-on-different-screens-in-bootstrap)|
-|102.|[How to make a link unclickable in Bootstrap Navbar?](#q-how-to-make-a-link-unclickable-in-bootstrap-navbar)|
-|103.|[What is a Bootstrap Container?](#q-what-is-a-bootstrap-container)|
-|104.|[Bootstrap Collapse example?](#q-bootstrap-collapse-example)|
-|105.|[Why the .flex-sm-shrink-1 class used in Bootstrap 4?](#q-why-the-flex-sm-shrink-1-class-used-in-bootstrap-4)|
-|106.|[Why Bootstrap has a Grid System?](#q-why-bootstrap-has-a-grid-system)|
-|107.|[Why the flex-md-row-reverse class used in Bootstrap 4?](#q-why-the-flex-md-row-reverse-class-used-in-bootstrap-4)|
-|108.|[How to display flex items vertically on small screen in Bootstrap 4?](#q-how-to-display-flex-items-vertically-on-small-screen-in-bootstrap-4)|
-|109.|[Why the align-items-sm-baseline class used in Bootstrap 4?](#q-why-the-align-items-sm-baseline-class-used-in-bootstrap-4)|
-|110.|[Can Tabs be centered in Bootstrap?](#q-can-tabs-be-centered-in-bootstrap)|
-|111.|[Grid Structure in Bootstrap](#q-grid-structure-in-bootstrap)|
-|112.|[Why Offset Columns introduced in Bootstrap](#q-why-offset-columns-introduced-in-bootstrap)|
-|113.|[Column Ordering in Bootstrap?](#q-column-ordering-in-bootstrap)|
-|114.|[Define Bootstrap Panels](#q-define-bootstrap-panels)|
-|115.|[What is a Bootstrap Well?](#q-what-is-a-bootstrap-well)|
-|116.|[Create Inline form in Bootstrap](#q-create-inline-form-in-bootstrap)|
-|117.|[How we can use Glyphicons in Bootstrap?](#q-how-we-can-use-glyphicons-in-bootstrap)|
-|118.|[Pagination in Bootstrap?](#q-pagination-in-bootstrap)|
-|119.|[Container-fluid vs Container in Bootstrap](#q-container-fluid-vs-container-in-bootstrap)|
-|120.|[What is a card in Bootstrap?](#q-what-is-a-card-in-bootstrap)|
-|121.|[Why the d-sm-flex class used in Bootstrap 4?](#q-why-the-d-sm-flex-class-used-in-bootstrap-4)|
-|122.|[What does a default navbar consist of?](#q-what-does-a-default-navbar-consist-of)|
-|123.|[What are Carets in Bootstrap?](#q-what-are-carets-in-bootstrap)|
-|124.|[Align components in Bootstrap](#q-align-components-in-bootstrap)|
-|125.|[How can I add footer to panel in Bootstrap](#q-how-can-i-add-footer-to-panel-in-bootstrap)|
-|126.|[Center an element in Bootstrap](#q-center-an-element-in-bootstrap)|
-|127.|[How do we add outline to Buttons in Bootstrap?](#q-how-do-we-add-outline-to-buttons-in-bootstrap)|
-|128.|[How to create a responsive navbar in Bootstrap?](#q-how-to-create-a-responsive-navbar-in-bootstrap)|
-|129.|[How to create striped table with Bootstrap?](#q-how-to-create-striped-table-with-bootstrap)|
-|130.|[How to create Navbar in Bootstrap?](#q-how-to-create-navbar-in-bootstrap)|
 
-#### Q. Explain what is Bootstrap?
+#### Q. What is Bootstrap?
 Bootstrap is a HTML, CSS, and JS framework for building the rich web applications with minimal effort. This framework emphasis more on building mobile web applications.
 
-#### Q. Explain why to choose Bootstrap for building the websites?
+#### Q. Why to choose Bootstrap for building the websites?
 There are few reason why we choose Bootstrap for building websites
 
 Mobile Support: For mobile devices it provides full support in one single file rather than in separate file. It supports the responsive design including adjusting the CSS based on the different types of device, size of the screen etc. It reduces extra effort for developers.
@@ -154,7 +22,7 @@ Layout Components : List of layout components
 JavaScript Plugins: It contains many jQuery and JavaScript plugins
 Customize: To get your own version of framework you can customize your components
 
-#### Q. Explain what are class loaders in Bootstrap?
+#### Q. What are class loaders in Bootstrap?
 Class loader is a part of JRE (Java Runtime Environment) which loads Java classes into Java virtual environment. Class loaders also does the process of converting a named class into its equivalent binary form.
 
 #### Q. What are the types of layout available in Bootstrap?
@@ -164,7 +32,7 @@ Fluid Layout: Fluid layout is used when you want to create a app that is 100% wi
 Fixed Layout: For a standard screen you will use fixed layout (940 px) option
 BootStrap
 
-#### Q. Explain what is Bootstrap Grid System?
+#### Q. What is Bootstrap Grid System?
 For creating page layout through a series of rows and columns that house your content Bootstrap Grid Sytem is used.
 
 #### Q. What are offset columns in Bootstrap?
@@ -180,7 +48,7 @@ the order of the column can be easily changed.
 #### Q. What function you can use to wrap a page content?
 To wrap a page content you can use .container and using that you can also center the content.
 
-#### Q. Explain what pagination in bootstrap is and how they are classified?
+#### Q. What pagination in bootstrap is and how they are classified?
 Pagination is the handling of an unordered list by bootstrap. To handle pagination bootstrap provides following classes
 
 .pagination: To get pagination on your page you have to add this class
@@ -208,23 +76,23 @@ In bootstrap you can display code in two ways
 `tag` : If you are going to display code inline, you should use `code` tag
 `pre` tag: If you want to display the code as a standalone block element or it has multiple lines then you should use `pre` tag
 
-#### Q. Explain what are the steps for creating basic or vertical forms?
+#### Q. What are the steps for creating basic or vertical forms?
 The steps for creating basic or vertical forms are
 
 Add a role form to the parent `form` element
 Wrap labels and controls in a `div` with class `.form-group.` To achieve optimum spacing this is needed
 Add a class of `.form-control` to all texturl `input` , `textarea` , and `select` elements
 
-#### Q. Explain what is Modal plugin used for in Bootstrap?
+#### Q. What is Modal plugin used for in Bootstrap?
 A modal is a child window that is layered over its parent window. Using a custom Jquery Plugin, Bootstrap Modal are created. To enrich user experience and to add functionality to users, modal windows are created with the help of Modal plugin.
 
-#### Q. Explain what is Bootstrap Container?
+#### Q. What is Bootstrap Container?
 Bootstrap container is a class which is useful and creates a centred area within the page where our site content can be put within. The advantage of the bootstrap .container is that it is responsive and will place all our other HTML code.
 
-#### Q. Explain what is Bootstrap collapsing elements?
+#### Q. What is Bootstrap collapsing elements?
 Bootstrap collapsing elements enables you to collapse any particular element without writing any JavaScript code or the accordion markup. In Bootstrap to apply collapsing elements you have to add data-toggle= “collapse” to the controller element along with a data-target or href to automatically assign control of a collapsible element. Likewise, you can use .collapse (options), .collapse (‘show’) or .collapse (‘hide’)
 
-#### Q. Explain what is list group in Bootstrap and what is the use of it?
+#### Q. What is list group in Bootstrap and what is the use of it?
 List groups are components to display both simple and complex element with custom content
 
 For example, a simple list group is created using class .list-group to address the list, and class .list-group-item to address individual item.
@@ -232,7 +100,7 @@ For example, a simple list group is created using class .list-group to address t
 #### Q. How you can add badge to list group in Bootstrap?
 To add badge to list group in Bootstrap you have to simply add `span class = “badge”` within the `li` element.
 
-#### Q. Explain what media object in Bootstrap is and what are their types?
+#### Q. What media object in Bootstrap is and what are their types?
 Media objects in Bootstrap enables to put media object like image, video or audio to the left or right of the content blocks. Media element can be created using the class .media and the source is specified in using the class .media-object. Media-objects are of two types,
 
 They are of two types
@@ -240,10 +108,10 @@ They are of two types
 .media
 .media-list
 
-#### Q. Explain what is Bootstrap well?
+#### Q. What is Bootstrap well?
 Bootstrap well is a container `div` that makes the content to appear sunken or an inset effect on the page. In order to create a well, wrap the content that you would like to appear in the well with a `div` containing the class of .well.
 
-#### Q. Explain how you can create Nav elements in Bootstrap?
+#### Q. How you can create Nav elements in Bootstrap?
 Bootstrap offers various options for styling navigation elements all of them use the same markup and base class .nav.
 
 To create Tabular Navigation or Tabs
@@ -251,7 +119,7 @@ To create Tabular Navigation or Tabs
 Start with a basic unordered list with the base class of .nav
 Then add class .nav-tabs
 
-#### Q. Explain what is the use of Bootstrap Carousel plugin?
+#### Q. What is the use of Bootstrap Carousel plugin?
 The Carousel plugin is used to add a slider to your site. It is useful in condition where you want to display huge amount of contents within a small space on the web pages. Some of the standard carousel includes
 
 .carousel (options)
@@ -354,7 +222,7 @@ Model windows are created with the help of the modal plugin.
 #### Q. Which class is used for pagination in Bootstrap?
 To add pagination on the webpage we have to use the class .pagination.
 
-#### Q. Explain what is Bootstrap collapsing elements.
+#### Q. What is Bootstrap collapsing elements.
 It allows you to collapse any particular element without using any JavaScript code.
 
 To use this feature in bootstrap you have to add data-toggle=” collapse” to the controller element along with a data target to automatically assign the control of a collapsible element. We can use this by writing .collapse(options) etc.
@@ -471,7 +339,7 @@ The output of this will give the grids for extra small devices as we can see in 
 #### Q. What dependencies does Bootstrap require to work properly?
 jQuery is the only dependency that bootstrap requires for working properly and this is only for JavaScript plugins in bootstrap.
 
-#### Q. Explain what the below code will do?
+#### Q.  what the below code will do?
 ```html
 <a href="#">Home <span class="badge">36</span></a>
 ```
@@ -591,10 +459,6 @@ Ex :
 
 Bootstrap carousel:  Adds a slider through which images, videos, and contents can be populated and sided for the users. It is a flexible, handy and responsive way to add a carousel to our site. Carousel plug-in is a component which is used for the same.
 
-#### Q. Bootstrap 3 vs Bootstrap 4
-#### Q. Is Bootstrap a framework?
-#### Q. What comes under the Bootstrap package?
-#### Q. How to setup Bootstrap with CDN?
 #### Q. New features of Bootstrap 4
 #### Q. Types of Layouts in Bootstrap?
 #### Q. What is the role of Jumbotron in Bootstrap?
