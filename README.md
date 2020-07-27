@@ -301,8 +301,8 @@ There are two types of layouts in Bootstrap.
 
 They are:
 
-Fluid Layout
-Fixed Layout
+- Fluid Layout
+- Fixed Layout
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -336,10 +336,10 @@ Progress bar is used with HTML tag style in HTML element using `progress` keywor
 
 The contextual classes used with progressive bar are as follows.
 
-- Progress-success
-- Progress-info
-- Progress-warning
-- Progress-danger
+- `Progress-success`
+- `Progress-info`
+- `Progress-warning`
+- `Progress-danger`
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
