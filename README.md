@@ -2,6 +2,8 @@
 
 *Click <img src="https://github.com/learning-zone/bootstrap-css-interview-questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
 
+<br/>
+
 ## Q. What is Bootstrap?
 
 Bootstrap is a HTML, CSS, and JS framework for building the rich web applications with minimal effort. This framework emphasis more on building mobile web applications.
@@ -76,7 +78,7 @@ For example, .col-xs=* classes do not support offset but they are easily replica
 
 ## Q. What is column ordering in Bootstrap?
 
-Column ordering is one of the feature available in bootstrap and you can easily write columns in an order and show them in another one. With .col-md-push-* and .col-md-pull-*
+Column ordering is one of the feature available in bootstrap and you can easily write columns in an order and show them in another one. With `.col-md-push-* ` and `.col-md-pull-*`
 
 the order of the column can be easily changed.
 
@@ -118,11 +120,12 @@ Create a container `div` with the class of .jumbotron
 
 ## Q. What is the difference between Bootstrap and Foundation?
 
-Bootstrap	Foundation
-– Bootstrap offers unlimited number of UI elements	– In Foundation UI element options are very limited in numbers
-– Bootstraps uses pixels	– Foundation use REMs
-– Bootstrap encourages to design for both desktop and mobile.	– Foundation encourages to design mobile first
-– Bootstrap support LESS as its preprocessor	– Foundation support Sass and Compass as its preprocessor
+|Bootstrap               |Foundation              |
+|------------------------|------------------------|
+|Bootstrap offers unlimited number of UI elements|In Foundation UI element options are very limited in numbers|
+|Bootstraps uses pixels  | Foundation use REMs|
+|Bootstrap encourages to design for both desktop and mobile.| Foundation encourages to design mobile first|
+|Bootstrap support LESS as its preprocessor | Foundation support Sass and Compass as its preprocessor|
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -169,7 +172,7 @@ Bootstrap container is a class which is useful and creates a centred area within
 
 ## Q. What is Bootstrap collapsing elements?
 
-Bootstrap collapsing elements enables you to collapse any particular element without writing any JavaScript code or the accordion markup. In Bootstrap to apply collapsing elements you have to add data-toggle= “collapse” to the controller element along with a data-target or href to automatically assign control of a collapsible element. Likewise, you can use .collapse (options), .collapse (‘show’) or .collapse (‘hide’)
+Bootstrap collapsing elements enables you to collapse any particular element without writing any JavaScript code or the accordion markup. In Bootstrap to apply collapsing elements you have to add data-toggle= “collapse" to the controller element along with a data-target or href to automatically assign control of a collapsible element. Likewise, you can use .collapse (options), .collapse (‘show’) or .collapse (‘hide’)
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -187,7 +190,7 @@ For example, a simple list group is created using class .list-group to address t
 
 ## Q. How you can add badge to list group in Bootstrap?
 
-To add badge to list group in Bootstrap you have to simply add `span class = “badge”` within the `li` element.
+To add badge to list group in Bootstrap you have to simply add `span class = "badge"` within the `li` element.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -231,18 +234,19 @@ Then add class .nav-tabs
 
 The Carousel plugin is used to add a slider to your site. It is useful in condition where you want to display huge amount of contents within a small space on the web pages. Some of the standard carousel includes
 
-.carousel (options)
-.carousel (‘cycle’)
-.carousel (‘pause’)
-.carousel (‘number’)
-.carousel (‘prev’)
-.carousel (‘next’)
+- `.carousel (options)`
+- `.carousel ('cycle')`
+- `.carousel ('pause')`
+- `.carousel ('number')`
+- `.carousel ('prev')`
+- `.carousel ('next')`
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. Define Bootstrap.
+## Q. Define Bootstrap?
+
 Bootstrap is a front-end framework that is used for creating HTML, CSS, and JS web applications. Its layout is very responsive, easy and fast to use. It mostly focuses on building a mobile application with having design templates for creating UI like Dropdown, Forms, Buttons, Alerts Tab, etc.
 
 <div align="right">
@@ -332,10 +336,10 @@ Progress bar is used with HTML tag style in HTML element using `progress` keywor
 
 The contextual classes used with progressive bar are as follows.
 
-Progress-success
-Progress-info
-Progress-warning
-Progress-danger
+- Progress-success
+- Progress-info
+- Progress-warning
+- Progress-danger
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -345,19 +349,19 @@ Progress-danger
 
 Responsive utility classes in bootstrap are a set of classes which are used to conceal or exhibit the HTML elements based on screen resolution that discerns by media query in bootstrap.
 
-Example: “hidden-md-down”, It hides
+Example: `hidden-md-down`, It hides
 
 ## Q. What are the different button styles in Bootstrap?
 
 In bootstrap there are seven styles which we can use with the bootstrap button.
 
-.btn-default.
-.btn-primary
-.btn-success
-.btn-info
-.btn-warning.
-.btn-danger.
-.btn-link.
+- `.btn-default.`
+- `.btn-primary`
+- `.btn-success`
+- `.btn-info`
+- `.btn-warning.`
+- `.btn-danger.`
+- `.btn-link.`
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -369,12 +373,14 @@ This is used to create presume alert messages, which adds style to the messages 
 
 There are four classes in alerts i.e .alert-success, .alert-info, .alert-warning, .alert-danger.
 
-## Q. Define Bootstrap thumbnails.
+## Q. Define Bootstrap thumbnails?
+
 It is a way to use the layout images, videos, text etc. in a grid system. We can create thumbnails by adding a tag with the class .thumbnails around the image.
 
 This will add four pixels of padding and a grey border.
 
-## Q. Explain Modal plugin in Bootstrap.
+## Q. Explain Modal plugin in Bootstrap?
+
 A model is an inherited window that is layered over its parent window. This is used to augment the user experience and adds different functionalities to the users.
 
 Model windows are created with the help of the modal plugin.
@@ -383,10 +389,11 @@ Model windows are created with the help of the modal plugin.
 
 To add pagination on the webpage we have to use the class .pagination.
 
-## Q. What is Bootstrap collapsing elements.
+## Q. What is Bootstrap collapsing elements?
+
 It allows you to collapse any particular element without using any JavaScript code.
 
-To use this feature in bootstrap you have to add data-toggle=” collapse” to the controller element along with a data target to automatically assign the control of a collapsible element. We can use this by writing .collapse(options) etc.
+To use this feature in bootstrap you have to add data-toggle=" collapse" to the controller element along with a data target to automatically assign the control of a collapsible element. We can use this by writing .collapse(options) etc.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -396,10 +403,11 @@ To use this feature in bootstrap you have to add data-toggle=” collapse” to 
 
 Bootstrap well is a form of container which thrives or makes the content to look recessed on the web page. It also wraps the content by using .well class.
 
-## Q. Explain the uses of carousel plugin in Bootstrap.
+## Q. Explain the uses of carousel plugin in Bootstrap?
+
 Carousel plugin in bootstrap is used to make sliders in the web pages or your site. There are several carousel plugins that are used in bootstrap to display large contents within a small space by adding sliders.
 
-Example: .carousel(options), .carousel(‘pause’), .carousel(cycle’), .carousel(‘prev’), .carousel(‘next’).
+Example: `.carousel(options)`, `.carousel('pause')`, `.carousel('cycle')`, `.carousel('prev')`, `.carousel('next')`.
 
 ## Q. What will be the output of the below code and why?
 
@@ -451,7 +459,7 @@ In bootstrap, navbar is an eminent feature to make responsive meta component tha
 
 ## Q. How we can create a navbar in Bootstrap?
 
-To create a navbar in a bootstrap at first, we have to add the classes .navbar, .navbar-default to the `nav` tag. After this, we have to add the role=”navigation” to the above element, and this will help in accessibility.
+To create a navbar in a bootstrap at first, we have to add the classes .navbar, .navbar-default to the `nav` tag. After this, we have to add the role="navigation" to the above element, and this will help in accessibility.
 
 We have added a header class .nav-header to the `div` element, which will include an `a` element with a class navbar brand. From this, we will get a text with a larger size.
 
@@ -467,7 +475,7 @@ Bootstrap labels are used for offering counts, tips or other things to provide m
 
 ## Q. What are badges in Bootstrap?
 
-Badges are homogeneous to labels, the main difference between them is corners are more rounded. The main work of badges in the bootstrap is to highlight new or unread items. To use badges just add `span class=”badge”` to links and bootstrap navs.
+Badges are homogeneous to labels, the main difference between them is corners are more rounded. The main work of badges in the bootstrap is to highlight new or unread items. To use badges just add `span class="badge"` to links and bootstrap navs.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -491,7 +499,7 @@ Bootstrap normalize is a small CSS file which is used to make cross-browser cons
 
 ## Q. What is lead body copy in Bootstrap?
 
-It is used to add some ascent to the paragraph if we add class=”lead”. This will enlarge the font size and a taller line height.
+It is used to add some ascent to the paragraph if we add class="lead". This will enlarge the font size and a taller line height.
 
 ## Q. What are panels in Bootstrap?
 
@@ -531,10 +539,10 @@ There are four grid classes in Bootstrap.
 
 They are:
 
-xs (It is used for phone screens less than 786px wide).
-sm (It is used for the tablet screens which are greater than 786px wide).
-md (It is for small laptop screen of size equal to or greater than 992px wide).
-LG ( It is for laptop and desktop screens which are equal to greater than 1200px wide).
+- xs (It is used for phone screens less than 786px wide).
+- sm (It is used for the tablet screens which are greater than 786px wide).
+- md (It is for small laptop screen of size equal to or greater than 992px wide).
+- LG ( It is for laptop and desktop screens which are equal to greater than 1200px wide).
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -562,20 +570,17 @@ The output of this will give the grids for extra small devices as we can see in 
 
 jQuery is the only dependency that bootstrap requires for working properly and this is only for JavaScript plugins in bootstrap.
 
-## Q.  what the below code will do?
+## Q.  What the below code will do?
 
 ```html
 <a href="#">Home <span class="badge">36</span></a>
 ```
+
  This code will produce a link with an inline badge which will give an important notification to the user like number received, message received or the number of requests etc.
 
 ## Q. What are the two codes that are used for code display in Bootstrap?
 
 The codes are `code` tag and `pre` tag.
-
-## Q. What is the difference between Bootstrap and Foundation?
-
-Bootstrap uses very fewer preprocessors as it supports less and it allows the designing and development for both mobile and desktop. On the other hand, Foundation supports sass processors and it is used only for mobile UI designing.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -586,7 +591,7 @@ Bootstrap uses very fewer preprocessors as it supports less and it allows the de
 By this, we can use the icon simply anywhere in your code.
 
 ```html
-<span class=”glyphicon glyphicon-search”></span>
+<span class="glyphicon glyphicon-search"></span>
 ```
 
 ## Q. What is a transition plugin in Bootstrap?
@@ -622,7 +627,8 @@ Magazine
 ERP system
 A breadcrumb in Bootstrap is simply an unordered list with a class of .breadcrumb.
 
-Ex:
+Example:
+
 ```css
 
 .breadcrumb > li + li:before {
@@ -642,13 +648,13 @@ Jumbotron is a user-attractive function of Bootstrap. it is a brilliant way to h
 
 Create a container `div` with the class of. Jumbotron
 
-Ex: The example shows wrapping up of heading contents inside a div class Jumbotron container.
+Example: The example shows wrapping up of heading contents inside a div class Jumbotron container.
 
 ```html
-<div class=”jumbotron”>
+<div class="jumbotron">
     <h1>Learn to Create Websites</h1>
-    <p>In today’s world internet is the most popular way…</p>
-    <p><a href=”#” class=”btn btn-primary btn-lg”>Learn more</a></p>
+    <p>In today's world internet is the most popular way…</p>
+    <p><a href="#" class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 ```
 
@@ -678,14 +684,15 @@ Let us move to the next Bootstrap Interview Questions And Answer.
 
 This is the advanced Bootstrap Interview Questions which is asked in an interview. It resembles the navigation header in the top of the page, the navigation bar can be created with Nav tag. Navbars and their contents are fluid by default. The horizontal width can be scaled and controlled using Navigation containers. Navbars are concealed by default while printing.
 
-Ex:  
+Example:  
+
 ```html
-<nav class=”navbar navbar-expand-lg navbar-light bg-light”>
-    <div class=”dropdown-menu” aria-labelledby=”navbarDropdown”>
-        <a class=”dropdown-item” href=”#”>Action</a>
-        <a class=”dropdown-item” href=”#”>Another action</a>
-    <div class=”dropdown-divider”></div>
-        <a class=”dropdown-item” href=”#”>Something else here</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="#">Action</a>
+        <a class="dropdown-item" href="#">Another action</a>
+    <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Something else here</a>
     </div>
 </nav>
 ```
@@ -698,27 +705,29 @@ Ex:
 
 Glyphicons are symbols or definitive icon fonts which provide easy orientation in your web projects. they are preferably addended in buttons, form inputs, toolbars and navigation components.  Glyphicons Halflings are not free to use entities and requires licensing. Bootstrap includes more than 250 glyphs from the Glyphicons Halflings set.
 
-Ex:
+Example:
 
 ```html
-<p>Search icon: <span class=”glyphicon glyphicon-search”></span></p>
+<p>Search icon: <span class="glyphicon glyphicon-search"></span></p>
 ```
 
 ## Q. Describe a Bootstrap panel Bootstrap well and Bootstrap carousel?
 
 Bootstrap well: Adds a greyish rounded background around the content, it is a container class. The .well-sm class for small wells and .well-lg class for large wells allows alternate the size of the well. Default well size is normal.
 
-Ex: 
+Example:
+
 ```html
-<div class=”well”>Basic Well</div>
+<div class="well">Basic Well</div>
 ```
 
 Bootstrap panel: There could be situations where some site contents need to be wrapped up in a box to enhance the visibility for the user. Bootstrap panels lock hands on these needs. They can be created with the .panel class and content inside the panel has a .panel-body class.
 
-Ex :    
+Example:
+
 ```html
-<div class=”panel panel-default”>
-    <div class=”panel-body”>Look, I’m in a panel!</div>
+<div class="panel panel-default">
+    <div class="panel-body">Look, I'm in a panel!</div>
 </div>
 ```
 
